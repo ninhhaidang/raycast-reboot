@@ -12,6 +12,7 @@ Raycast Script Command to reboot macOS **without** restoring previous apps.
    ```bash
    mkdir -p ~/raycast-scripts
    cp reboot.sh ~/raycast-scripts/
+   chmod +x ~/raycast-scripts/reboot.sh
    ```
 
 2. **Add to Raycast:**
@@ -44,6 +45,7 @@ Script Command khởi động lại macOS **không** mở lại ứng dụng cũ
    ```bash
    mkdir -p ~/raycast-scripts
    cp reboot.sh ~/raycast-scripts/
+   chmod +x ~/raycast-scripts/reboot.sh
    ```
 
 2. **Thêm vào Raycast:**
